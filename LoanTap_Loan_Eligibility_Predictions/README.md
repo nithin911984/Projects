@@ -10,5 +10,5 @@ This repository contains my raw data analysis notebook exploring the LoanTap dat
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook Yulu.ipynb
+   jupyter notebook LoanTap_case_study.ipynb
    ```
