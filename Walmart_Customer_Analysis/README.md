@@ -1,4 +1,4 @@
-# Netflix EDA Project
+# Walmart Customer Purchase Behaviour Analysis
 
 This repository contains my raw data analysis notebook exploring the Netflix dataset.
 
@@ -10,5 +10,5 @@ This repository contains my raw data analysis notebook exploring the Netflix dat
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook Aerofit_treadmill_casestudy.ipynb
+   jupyter notebook Walmart_case_study.ipynb
    ```

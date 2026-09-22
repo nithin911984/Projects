@@ -10,5 +10,5 @@ This repository contains my raw data analysis notebook exploring the Netflix dat
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook scaler_netflix_assignment_Detailed.ipynb
+   jupyter notebook Netflix_EDA.ipynb
    ```
