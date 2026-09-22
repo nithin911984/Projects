@@ -1,4 +1,4 @@
-# Netflix EDA Project
+# Aerofit Treadmill Case Study
 
 This repository contains my raw data analysis notebook exploring the Netflix dataset.
 
