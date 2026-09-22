@@ -1,6 +1,6 @@
-# Walmart Customer Purchase Behaviour Analysis
+# Yulu Demand Prediction Analysis
 
-This repository contains my raw data analysis notebook exploring the Walmart dataset.
+This repository contains my raw data analysis notebook exploring the Yulu dataset.
 
 ## How to Run This Project
 1. Clone this repository.
@@ -10,5 +10,5 @@ This repository contains my raw data analysis notebook exploring the Walmart dat
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook Walmart_case_study.ipynb
+   jupyter notebook Yulu.ipynb
    ```

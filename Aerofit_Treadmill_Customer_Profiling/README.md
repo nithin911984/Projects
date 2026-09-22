@@ -1,6 +1,6 @@
 # Aerofit Treadmill Case Study
 
-This repository contains my raw data analysis notebook exploring the Netflix dataset.
+This repository contains my raw data analysis notebook exploring the Aerofit dataset.
 
 ## How to Run This Project
 1. Clone this repository.
