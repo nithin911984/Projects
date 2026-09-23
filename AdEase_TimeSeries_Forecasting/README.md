@@ -1,6 +1,6 @@
-# Aerofit Treadmill Case Study
+# ADEASE TIMESERIES FORECASTING
 
-This repository contains my raw data analysis notebook exploring the Aerofit dataset.
+This repository contains my raw data analysis notebook exploring the AdEase dataset.
 
 ## How to Run This Project
 1. Clone this repository.
@@ -10,5 +10,5 @@ This repository contains my raw data analysis notebook exploring the Aerofit dat
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook Aerofit_treadmill_casestudy.ipynb
+   jupyter notebook AdEase_case_study.ipynb
    ```
