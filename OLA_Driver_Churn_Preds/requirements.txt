@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+notebook
+scipy
+sklearn
+xgboost
+lightgbm
