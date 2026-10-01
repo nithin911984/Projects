@@ -1,16 +1,16 @@
 # Aerofit Treadmill: Customer Profiling & Case Study
 
 # Dataset : Columns
-● Product: Product Purchased KP281, KP481, or KP781
-● Age: In years
-● Gender: Male/Female
-● Education: in years
-● MaritalStatus: single or partnered
-● Usage: average number of times the customer plans to use the treadmill each week
-● Income: annual income (in $)
-● Fitness: self-rated fitness on a 1-to-5 scale, where 1 is poor shape and 5 is the
+* Product: Product Purchased KP281, KP481, or KP781
+* Age: In years
+* Gender: Male/Female
+* Education: in years
+* MaritalStatus: single or partnered
+* Usage: average number of times the customer plans to use the treadmill each week
+* Income: annual income (in $)
+* Fitness: self-rated fitness on a 1-to-5 scale, where 1 is poor shape and 5 is the
 excellent shape
-● Miles: average number of miles the customer expects to walk/run each week
+* Miles: average number of miles the customer expects to walk/run each week
 
 ## 📌 Project Overview
 Aerofit is a leading brand in fitness equipment. The market research team wants to identify the characteristics of the target audience for each type of treadmill offered by the company to provide better product recommendations to new customers.
