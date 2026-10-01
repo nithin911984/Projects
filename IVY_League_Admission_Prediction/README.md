@@ -1,15 +1,14 @@
 # 🎓 Ivy League College Admission Prediction
 
-<img src="https://shields.io" alt="Dataset" valign="middle"> <img src="https://shields.io" alt="Domain" valign="middle"> <img src="https://shields.io" alt="Task" valign="middle">
-
-•	Serial No. (Unique row ID)
-•	GRE Scores (out of 340)
-•	TOEFL Scores (out of 120)
-•	University Rating (out of 5)
-•	Statement of Purpose and Letter of Recommendation Strength (out of 5)
-•	Undergraduate GPA (out of 10)
-•	Research Experience (either 0 or 1)
-•	Chance of Admit (ranging from 0 to 1)
+## The Dataset: Columns
+* •	Serial No. (Unique row ID)
+* •	GRE Scores (out of 340)
+* •	TOEFL Scores (out of 120)
+* •	University Rating (out of 5)
+* •	Statement of Purpose and Letter of Recommendation Strength (out of 5)
+* •	Undergraduate GPA (out of 10)
+* •	Research Experience (either 0 or 1)
+* •	Chance of Admit (ranging from 0 to 1)
 
 ## 📌 Project Overview
 Jamboree is a leading EdTech platform helping students secure admissions to premium international universities. Navigating the highly competitive Ivy League and top-tier global university admission process is challenging for applicants who want to know where they stand based on their academic profiles.
