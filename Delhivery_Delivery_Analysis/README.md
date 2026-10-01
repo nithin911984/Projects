@@ -26,8 +26,8 @@ The objective of this project is to clean, process, and analyze raw logistics da
 ## 🛠️ Tech Stack & Methodology
 * **Language:** Python
 * **Data Manipulation:** `pandas` (Grouping, aggregations, datetime parsing, data type conversions), `numpy`
-* **Data Visualization:** `seaborn`, `matplotlib` (Distribution plots, correlation heatmaps, box plots for outlier tracking)
-* **Statistical Analysis:** Hypothesis testing (e.g., ANOVA, t-tests) to validate differences between routing methods and regions.
+* **Data Visualization:** `seaborn`, `matplotlib` (Distribution plots, box plots for outlier tracking)
+* **Statistical Analysis:** Hypothesis testing (ks_2samp) to validate differences between actual_distance and estimated_distance
 
 ---
 
