@@ -11,14 +11,14 @@ The objective of this project is to perform an Exploratory Data Analysis (EDA) o
 * KP781: Premium treadmill ($2,500) - For advanced/heavy fitness users.
 
 ## 🚀 Key Insights Uncovered
-Income Thresholds: Customers with an annual income over $60,000 almost exclusively purchase the premium KP781 model.
-Gender Distributions: The KP781 model shows a heavy skew toward male buyers, while the KP281 and KP481 models are evenly distributed among all genders.
-Fitness Correlation: Users who rate their fitness levels as 4 or 5 out of 5 have an incredibly high probability of purchasing the KP781 model.
+* Income Thresholds: Customers with an annual income over $60,000 almost exclusively purchase the premium KP781 model.
+* Gender Distributions: The KP781 model shows a heavy skew toward male buyers, while the KP281 and KP481 models are evenly distributed among all genders.
+* Fitness Correlation: Users who rate their fitness levels as 4 or 5 out of 5 have an incredibly high probability of purchasing the KP781 model.
 
 ## 🛠️ Tech Stack & Methodology
-Language: Python
-Libraries: Pandas (Data Cleaning), Seaborn & Matplotlib (Data Visualization), NumPy (Analytical operations).
-Techniques: Contingency tables, Marginal & Conditional Probability distribution analysis, Outlier detection.
+* Language: Python
+* Libraries: Pandas (Data Cleaning), Seaborn & Matplotlib (Data Visualization), NumPy (Analytical operations).
+* Techniques: Contingency tables, Marginal & Conditional Probability distribution analysis, Outlier detection.
 
 ## 💻 How to Run This Project
 1. Clone this repository:
